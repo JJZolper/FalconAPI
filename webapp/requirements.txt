@@ -1,0 +1,6 @@
+falcon
+pymongo
+gunicorn
+mongo
+redis
+testtools
